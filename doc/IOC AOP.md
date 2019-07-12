@@ -10,7 +10,7 @@
     支持构造函数、属性注入、泛型注入、注入选择。
 ## 设计原理
     主要通过Castle组件，对业务代码封装，实现动态类。如图：
-    ![](../images/ioc.png?raw=true)
+  ![](../images/ioc.png)
 
 ### 说明
   LifeStyle：
