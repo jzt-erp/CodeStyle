@@ -18,4 +18,5 @@
 - ## IOC,AOP
 - ## BPM
 - ## EF
+  + [EF使用注意事项（优化）(向义涛)](https://github.com/jzt-erp/CodeStyle/wiki/EF%E4%BD%BF%E7%94%A8%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%EF%BC%88%E4%BC%98%E5%8C%96%EF%BC%89)
 - ## 异常
