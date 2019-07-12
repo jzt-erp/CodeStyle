@@ -12,6 +12,10 @@
 
 ### 包括:
 
-- ### 官方指南
+- ## 官方指南
   + [C# 编码约定](https://docs.microsoft.com/zh-cn/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
   + [设计准则](https://docs.microsoft.com/zh-cn/dotnet/standard/design-guidelines/)
+- ## IOC,AOP
+- ## BPM
+- ## EF
+- ## 异常
